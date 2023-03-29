@@ -1,0 +1,4 @@
+selenium<4.3.0
+Flask~=1.1.2
+pyvirtualdisplay
+requests~=2.27.1
